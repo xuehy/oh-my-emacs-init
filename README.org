@@ -1,0 +1,4 @@
+* My personal emacs configurations (public part)
+ *Simple, Easy and Practical init files for emacs on Win/Linux/Macos*
+
+ This is part of my emacs configuration with functionalities related to personal info removed.
